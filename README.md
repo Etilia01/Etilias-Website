@@ -7,3 +7,6 @@ Its a really fancy website, i put all of my useless css/ html knowledge in there
 
 Inspired by the general vibe of neocities. Im considering adding background patterns at some point.
 Enjoy! (Warning, its really, really bright)
+
+Heres the link to the website!
+https://etilia01.github.io/Etilias-Website/
